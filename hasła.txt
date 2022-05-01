@@ -3,3 +3,7 @@ Acc3sswW7F7
 
 Mediaexpert
 mamdostep
+
+Nazwa sieci "pwned"
+Hasło do niej "deauther"
+Adres IP "192.168.4.1"
