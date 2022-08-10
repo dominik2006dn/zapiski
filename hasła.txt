@@ -2,7 +2,7 @@ NEONET
 Acc3sswW7F7
 
 Mediaexpert
-mamdostep
+mamdostemp
 
 Nazwa sieci "pwned"
 Hasło do niej "deauther"
